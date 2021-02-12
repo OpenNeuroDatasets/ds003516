@@ -1,0 +1,14 @@
+{
+  "Name": "Attended speaker paradigm (own name in ignored)",
+  "BIDSVersion": "v5.2",
+  "License": "Creative commons",
+  "Authors": [
+    "Bjoern Holtze",
+    "Manuela Jaeger",
+    "Stefan Debener",
+    "Kamil Adiloglu",
+    "Bojana Mirkovic"
+  ],
+  "ReferencesAndLinks": ["tba"],
+  "DatasetDOI": "tba"
+}
