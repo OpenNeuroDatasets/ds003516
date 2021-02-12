@@ -1,3 +1,5 @@
+1.1.0 2021-02-12
+  - Changed name of dataset
 Revision history for bjh_name dataset
 
 version 1.0 beta - 7 January 2021
@@ -9,4 +11,4 @@ the new version of bids_export.m (09-01-21)
 
 open issues: 
 1) Is my electrode file ALR? 
-2) Why is EEGCoordinateUnits in my case not in mm? 
+2) Why is EEGCoordinateUnits in my case not in mm?
